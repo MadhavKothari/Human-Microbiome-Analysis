@@ -14,3 +14,4 @@ This runs a comparision between two random people on the same visit, and also a 
 SIte Diversity and Site Comparision:
 This compares all the sites to one another to produce a heatmap of how similar each site is to every other site. This similarity is based on the perarson coeffcient of the rank abundance of the site. The comparision is done by sorting both the sites according to only one of the sites. This also produces a table that has the calculated mean diversity of each site. The most and least diverse of all the sites were then used to produce a rank abundance plot.  
 
+The img folder contains some of the types of graphs that these codes will generate. 
